@@ -10,7 +10,7 @@ namespace SherbetWebLinks.Models
 
         public void LoadDefaults()
         {
-            DiscordInvite = "https://discord.gg/Kcx2dvE";
+            DiscordInvite = "https://discord.com/invite/Kcx2dvE?__HEY!_Change_Me!";
             WebsiteURL = "https://YourWebsite.com/";
             ApplyStaffURL = "https://YourWebsite.com/ApplyStaff";
         }
